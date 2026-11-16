@@ -1,0 +1,5 @@
+# Publicación en GitHub Pages: solo la página autocontenida y estas reglas.
+# Mazos, motores, perfiles, configuraciones, informes y registros quedan locales.
+*
+!/.gitignore
+!/index.html
