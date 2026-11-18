@@ -1,5 +1,7 @@
-# Publicación en GitHub Pages: solo la página autocontenida y estas reglas.
+# Publicación en GitHub Pages: portada, repeticiones HTML y estas reglas.
 # Mazos, motores, perfiles, configuraciones, informes y registros quedan locales.
 *
 !/.gitignore
 !/index.html
+!/repeticiones/
+!/repeticiones/*.html
